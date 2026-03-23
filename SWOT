@@ -1,0 +1,49 @@
+A Matriz SWOT é uma ferramenta estrutural utilizada para identificar os fatores internos e externos que influenciam a viabilidade do sistema de gerenciamento de inventário proposto.
+
+Análise Interna (Forças e Fraquezas)
+As forças e fraquezas referem-se aos atributos do sistema e da equipe de desenvolvimento que estão sob controle direto do projeto.
+
+Forças (Strengths)
+Acessibilidade e Inclusão: O sistema é projetado com conformidade às diretrizes de acessibilidade (WCAG), garantindo o uso por pessoas com deficiências.
+
+Arquitetura Multiplataforma: Garantia de suporte e operabilidade em diferentes sistemas operacionais e dispositivos (Responsividade).
+
+Segurança de Dados: Implementação de protocolos de segurança de alto nível para proteção de informações sensíveis e integridade do banco de dados.
+
+Versatilidade Operacional: Capacidade de adaptação do software a diferentes nichos de mercado e segmentos de atuação dos clientes.
+
+Suporte e Ciclo de Vida: Planejamento estruturado para manutenção preventiva, corretiva e atualizações constantes conforme as flutuações do mercado.
+
+Business Intelligence (BI): Capacidade de fornecer análises de dados refinadas para suporte à tomada de decisão do gestor.
+
+Fraquezas (Weaknesses)
+Vulnerabilidade a Erros de Registro: Dependência de processos manuais de entrada de dados, o que pode resultar em falhas humanas no inventário.
+
+Barreira de Custo Inicial: Necessidade de investimento em infraestrutura tecnológica para a implementação completa de módulos avançados.
+
+Riscos de Integridade do Inventário: Exposição a perdas físicas no armazenamento, como avarias ou obsolescência natural de produtos perecíveis.
+
+Complexidade na Previsão de Demanda: Dificuldade intrínseca em projetar com exatidão as necessidades futuras, podendo gerar desequilíbrios de estoque.
+
+ Análise Externa (Oportunidades e Ameaças)
+Os fatores externos abrangem o ambiente de mercado e as variáveis tecnológicas que podem impactar o projeto de forma indireta.
+
+Oportunidades (Opportunities)
+Expansão do E-commerce: Crescente interesse de novos empreendedores em digitalizar suas vendas, gerando demanda por sistemas de gestão simples.
+
+Inclusão Digital Silver Economy: Oportunidade de captar o público com menor fluidez tecnológica através de uma interface intuitiva (UX Design).
+
+Demanda por Otimização Logística: Necessidade do mercado em reduzir custos operacionais através de uma organização de estoque e análise de lucro mais eficiente.
+
+Escalabilidade Tecnológica: O avanço constante das tecnologias web permite que o sistema incorpore funcionalidades cada vez mais robustas e complexas.
+
+Apoio ao Empreendedorismo Sustentável: Posicionamento do software como ferramenta essencial para o crescimento organizado de micro e pequenas empresas.
+
+Ameaças (Threats)
+Instabilidade na Cadeia de Suprimentos: Atrasos de fornecedores externos que podem causar rupturas críticas, independentemente da eficiência do software.
+
+Volatilidade Econômica: Oscilações bruscas no mercado que podem tornar os modelos de estoque de segurança temporariamente ineficazes.
+
+Saturação de Mercado: Presença de softwares de gestão (ERPs) já consolidados, exigindo diferenciais competitivos claros e inovação constante.
+
+Obsolescência Exógena: Mudanças rápidas em legislações tributárias ou padrões tecnológicos que exigem adaptações sistêmicas imediatas.
